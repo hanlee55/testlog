@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "posts": [
-        
+        {"path": "test_js.html", "name":"test JS", "index":"t1", "url":["test"], "date":"2022-01-22T13:41:19.000Z"}
     ],
     "dir": [
         
