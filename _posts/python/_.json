@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "posts": [
+        {"path": "print.md", "name":"first post", "index":"1", "url":["first"], "date":"2022-01-20T4:41:19.000Z"}
+    ],
+    "dir": [
+        {"name": "함수", "path":"function", "index":"P-1", "url":["function"]},
+        {"name": "모듈", "path":"module", "index":"P-2", "url":["module"]}
+    ]
+}
