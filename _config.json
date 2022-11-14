@@ -7,5 +7,18 @@
     "_.json": {
         "name": "구) 목차",
         "no": 2
+    },
+    "javascript": {
+        "name": "자바스크립트",
+        "no": 3,
+        "hide": true
+    },
+    "python": {
+        "name": "파이썬",
+        "no": 1
+    },
+    "_posts": {
+        "name": "구) 목차",
+        "no": 3
     }
 }
